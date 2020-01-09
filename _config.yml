@@ -2,8 +2,7 @@ title: Level Design Notes  # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-God of War(/god_of_war)
-<br><br>
+<a href="god_of_war" title="About Me">About Me</a>
 
   Second description 
   <br><br>
